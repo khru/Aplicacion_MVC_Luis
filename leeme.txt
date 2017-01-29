@@ -1,0 +1,10 @@
+Práctica MVC
+Autor: Luis Cavero Martínez
+
+La documentación puede encontrarse en el archivo "Aplicacion_MVC.pdf".
+
+En la carpeta "Otros_archivos" puede encontrar imágenes y documentos que 
+puede utilizar para realizar pruebas con la subida de archivos de las revistas.
+
+Antes de utilizar la aplicación, por favor, cargue la base de datos incluida en
+el directorio myproject/_install
